@@ -12,7 +12,7 @@ btn.addEventListener("click", function(){
 
     item.appendChild(delbtn);
     ul.appendChild(item);
-    console.log(inp.value);
+    // console.log(inp.value);
     inp.value="";
 });
 
